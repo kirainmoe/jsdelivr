@@ -1,0 +1,14 @@
+{
+    "itlwm.kext": {
+        "update": 20200715
+    },
+    "itlwmx.kext": {
+        "update": 20200715
+    },
+    "HeliPort.app": {
+        "update": 20200715
+    },
+    "IntelBluetoothFirmware": {
+        "update": 20200715
+    }
+}
