@@ -1,9 +1,12 @@
 {
     "itlwm.kext": {
-        "update": 20200818
+        "update": 20200924
     },
-    "itlwmx.kext": {
-        "update": 20200818
+    "AirportItlwm-Catalina.kext": {
+        "update": 20200924
+    },
+    "AirportItlwm-BigSur.kext": {
+        "update": 20200924
     },
     "HeliPort.app": {
         "update": 20200818
