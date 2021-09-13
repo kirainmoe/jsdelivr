@@ -1,21 +1,22 @@
 {
     "itlwm.kext": {
-        "version": "v2.0.0 dev",
-        "update": 20210504
+        "version": "v2.1.0 dev",
+        "update": 20210913
     },
     "AirportItlwm-Catalina.kext": {
-        "version": "v2.0.0 dev",
-        "update": 20210504
+        "version": "v2.1.0 dev",
+        "update": 20210913
     },
     "AirportItlwm-BigSur.kext": {
-        "version": "v2.0.0 dev",
-        "update": 20210504
+        "version": "v2.1.0 dev",
+        "update": 20210913
     },
-    "HeliPort.app": {
-        "update": 20200818
+    "AirportItlwm-Monterey.kext": {
+        "version": "v2.1.0 dev",
+        "update": 20210913
     },
     "IntelBluetoothFirmware": {
-        "version": "1.1.2",
-        "update": 20200715
+        "version": "v2.0.0",
+        "update": 20210913
     }
 }
